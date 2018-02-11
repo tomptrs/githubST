@@ -9,6 +9,7 @@ SM5
 rework done !
 still on redesign branch
 and still
+do work while stashed
 
 
 
